@@ -8,3 +8,4 @@ loc.py
 src/ec2
 
 *env*
+/.vscode
